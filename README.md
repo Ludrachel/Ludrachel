@@ -7,6 +7,8 @@
 
 ![Ludrachel GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludrachel&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludrachel&layout=compact)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"></br>
